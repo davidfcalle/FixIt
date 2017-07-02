@@ -1,0 +1,19 @@
+{
+    "home": {
+        "title": "FixIt",
+        "subtitle": "Trabajamos para ti",
+        "logged": {
+            "message": "Está conectado como \"{{username}}\"."
+        },
+        "question": "Si tiene preguntas sobre FixIt:",
+        "link": {
+            "homepage": "Página de inicio de FixIt",
+            "stackoverflow": "FixIt en Facebook",
+            "bugtracker": "Facebook en Twitter",
+            "chat": "Número de WhatsApp de Fixit",
+            "follow": "Llámanos al siguiente teléfono"
+        },
+        "like": "Si te gusta FixIt, danos una estrella en",
+        "github": "GitHub"
+    }
+}
