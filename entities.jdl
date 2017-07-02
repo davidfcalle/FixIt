@@ -49,3 +49,4 @@ relationship ManyToOne {
 
 paginate Worker, Customer, Address, WorkType, WorkTypeCategory with infinite-scroll
 
+
